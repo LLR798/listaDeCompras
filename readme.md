@@ -9,7 +9,7 @@
 
 ## 🚀 Tecnologia:
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - Dart
 
